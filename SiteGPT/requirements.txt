@@ -1,0 +1,7 @@
+streamlit
+langchain
+openai
+beautifulsoup4
+faiss-cpu
+tiktoken
+numpy>=1.26.0,<1.27
